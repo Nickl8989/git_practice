@@ -6,3 +6,4 @@
 
 **Here He Is**
 
+![test-image] (/Users/nicklanz/Desktop/test-image.jpg) 

@@ -6,4 +6,3 @@
 
 **Here He Is**
 
-/Users/nicklanz/Desktop/test-image.jpg 

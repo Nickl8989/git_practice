@@ -6,4 +6,4 @@
 
 **Here He Is**
 
-![](../Desktop/test-image.jpg)
+/Users/nicklanz/Desktop/test-image.jpg 

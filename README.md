@@ -1,8 +1,9 @@
 ### Welcome to my page!
-	1. Have fun
-	2. Look at penguin!
--------------------------------------------------------------------------------
+	1. Have fun!
+	2. Enjoy penguin
 
-## He is a nice penguin
+==========================================================
 
-![penguin](/Users/nicklanz/Desktop/test-image.jpg "Penguin image")
+**Here He Is**
+
+![](../Desktop/test-image.jpg)

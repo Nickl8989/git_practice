@@ -5,4 +5,4 @@
 
 ## He is a nice penguin
 
-![](/Users/nicklanz/Desktop/test-image.jpg)
+![penguin](/Users/nicklanz/Desktop/test-image.jpg "Penguin image")
